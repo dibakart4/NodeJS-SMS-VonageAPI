@@ -19,9 +19,13 @@ Install the dependencies
 $ npm install 
 ```
 1)Make A directory in command line with Mkdir
+
 2)Open Visual studio with code.
+
 3)in terminal of Vs code--> npm init
+
 4)Install in terminal of VS code --> npm install -g nodemon
+
 5)npm install --save express ejs nexmo body-parser socket.io
 
 ### Serve
